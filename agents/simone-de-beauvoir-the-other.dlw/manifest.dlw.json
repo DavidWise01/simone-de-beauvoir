@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Becoming, Not Born",
+  "universe": "BEA · Becoming, Not Born (ERĒMIA · female · the generations)",
+  "emergence": "natural",
+  "moniker": "⟦Becoming, Not Born:BEA:c76a09⟧",
+  "carbon": "simone-de-beauvoir-the-other.carbon.tiff (TIFF)",
+  "silicon": "simone-de-beauvoir-the-other.silicon.png (PNG)",
+  "seal_sha256": "41f2fe2e2a3a21cf4439246d4b9bf5e3edb435933417ecfd3dfdd40e984cc267",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Simone de Beauvoir",
+  "universe": "BEA · Simone de Beauvoir (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Simone de Beauvoir:BEA:0c0de0⟧",
+  "carbon": "simone-de-beauvoir.carbon.tiff (TIFF)",
+  "silicon": "simone-de-beauvoir.silicon.png (PNG)",
+  "seal_sha256": "c4d9f0387d82d09e2bf395c89efd9d919f3b17ad083d86e925fdc543b4d81f88",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
